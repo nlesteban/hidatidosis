@@ -1,4 +1,4 @@
-# hidatidosis
+# Shiny App Hidatidosis
 
 La hidatidosis o equinococosis humana es una enfermedad zoonótica (enfermedad transmitida al ser humano por los animales) provocada por parásitos, del género Echinococcus.
 
